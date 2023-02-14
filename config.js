@@ -27,9 +27,9 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/l4c1f2r'
-global.syt = 'https://youtu.be/ALQiRR1nzLI'
-global.sgh = 'https://github.com/Turu-bangun'
+global.sig = 'ga ada'
+global.syt = 'ga ada'
+global.sgh = 'ga ada'
 global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'
 global.swa = 'wa.me/6285730659421'
 global.swb = 'https://discord.gg/4HvezMAw'
@@ -46,7 +46,7 @@ global.psaweria = '-'
 /*============== NOMOR ==============*/
 global.nomorbot = '6285784514314'
 global.nomorown = '6285730659421'
-global.namebot = 'NexBotz'
+global.namebot = 'Pulau BotZ'
 global.nameown = 'AgungGt'
 
 
@@ -102,16 +102,16 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'By NexBotz' //Main Watermark
-global.wm2 = 'PutraKeche'
-global.wm3 = 'NexBotz | By PutraModz'
+global.wm = 'By Pulau Botz' //Main Watermark
+global.wm2 = 'AgungKeche'
+global.wm3 = 'Pulau Botz | By PutraModz'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `NexBotz | ʙʏ ${global.nameown}`
-global.author = 'PutraModz' 
-global.packname = 'PutraKeche'
+global.titlebot = `Pulau Botz | ʙʏ ${global.nameown}`
+global.author = 'AgungGt' 
+global.packname = 'AgungKeche'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'Februari 02 2023'
+global.ultahowner = 'Oktober 10 2023'
 
 
 /*============== LOGO ==============*/
